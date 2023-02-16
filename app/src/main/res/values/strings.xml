@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sun of Volcano</string>
+    <string name="facebook_app_id">903807657474919</string>
+    <string name="fb_login_protocol_scheme">fb903807657474919</string>
+    <string name="facebook_client_token">75c15906f8ed2f9dfceb4c0208c33ef9</string>
+    <string name="cannot_open_file_chooser_txt">Can not open file chooser</string>
+    <string name="camera_permission_granted_txt">Permission granted</string>
+    <string name="camera_permission_denied_txt">Permission denied</string>
+    <string name="hello_blank_fragment">Qwisuhd</string>
+</resources>

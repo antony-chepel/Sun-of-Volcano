@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_main"
+    app:startDestination="@id/idjfsjisdfji">
+
+    <fragment
+        android:id="@+id/idjfsjisdfji"
+        android:name="com.miHoYo.Gens.dwisuhdws.Lopsisjidw"
+        android:label="xzijjiczxji"
+        tools:layout="@layout/usyioaskdw" >
+        <action
+            android:id="@+id/aoksoskaji"
+            app:destination="@id/ijjicxuuhd" />
+    </fragment>
+    <fragment
+        android:id="@+id/ytdudsuhd"
+        android:name="com.miHoYo.Gens.bgdsseu.Tososijdjixcx"
+        android:label="loxzijjzx"
+        tools:layout="@layout/oiuhxygcs" >
+        <action
+            android:id="@+id/aooakskoaji"
+            app:destination="@id/ozozjiijxijzchushu" />
+    </fragment>
+    <fragment
+        android:id="@+id/ozoxjiijs"
+        android:name="com.miHoYo.Gens.dwisuhdws.Xisushdywijsijd"
+        android:label="cioxijivjcx"
+        tools:layout="@layout/psoaldji" />
+    <fragment
+        android:id="@+id/ozozjiijxijzchushu"
+        android:name="com.miHoYo.Gens.bgdsseu.Yisijdwoskkods"
+        android:label="poisauhsdhu"
+        tools:layout="@layout/nhyfdfgdf" >
+        <action
+            android:id="@+id/riojifijjig"
+            app:destination="@id/ozoxjiijs" />
+    </fragment>
+    <fragment
+        android:id="@+id/ijjicxuuhd"
+            android:name="com.miHoYo.Gens.bgdsseu.Xiiahuhuuhisd"
+        android:label="obkovjivb">
+        <action
+            android:id="@+id/zoizijsuahgydwgyd"
+            app:destination="@id/ytdudsuhd" />
+    </fragment>
+</navigation>
